@@ -17,7 +17,7 @@ Cada disciplina tem um repositório próprio, com o nome no padrão `ufsm-si-<di
 |---|---|---|---|
 | Laboratório de Programação I | Benhur Stein | [ufsm-si-lab-prog-1](https://github.com/itskelme/ufsm-si-lab-prog-1) | Trabalhos T1–T3 em C, exercícios e autoavaliação |
 | Lógica e Algoritmos | Joaquim Assunção | [ufsm-si-logica-e-algoritmos](https://github.com/itskelme/ufsm-si-logica-e-algoritmos) (privado) | Slides, material de apoio e provas |
-| Circuitos Digitais | — | [ufsm-si-circuitos-digitais](https://github.com/itskelme/ufsm-si-circuitos-digitais) (privado) | Slides de álgebra booleana |
+| Circuitos Digitais | Carara | [ufsm-si-circuitos-digitais](https://github.com/itskelme/ufsm-si-circuitos-digitais) (privado) | Slides de álgebra booleana |
 | Trabalho em grupo | Rosecleia | [ufsm-si-bookmark](https://github.com/itskelme/ufsm-si-bookmark) | Bookmark Manager com Firebase |
 | Lógica e Algoritmos (trabalho) | Joaquim Assunção | [ufsm-si-brick-game-car](https://github.com/itskelme/ufsm-si-brick-game-car) | Brick Game: jogo de corrida no terminal em C |
 
@@ -32,6 +32,7 @@ Cada disciplina tem um repositório próprio, com o nome no padrão `ufsm-si-<di
 
 | Repositório | Conteúdo |
 |---|---|
+| [ufsm-si-provas-passadas](https://github.com/itskelme/ufsm-si-provas-passadas) (privado) | Provas antigas do 1º ao 7º semestre, por disciplina e docente |
 | [gamified-learning-harness](https://github.com/itskelme/gamified-learning-harness) | Ferramenta que transforma material de aula em guia resolvido, jogo e slides |
 
 ## Documentos
