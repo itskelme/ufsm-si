@@ -2,7 +2,7 @@
 
 > Índice dos meus repositórios de estudo do curso de Sistemas de Informação da UFSM.
 
-**Aluno:** Diego Kelme Santos da Silva — [@itskelme](https://github.com/itskelme)
+**Aluno:** Diego Kelme Santos da Silva ([@itskelme](https://github.com/itskelme))
 **Curso:** Bacharelado em Sistemas de Informação · Universidade Federal de Santa Maria (UFSM) · ingresso 2026/1
 
 ## Sobre
@@ -11,21 +11,21 @@ Cada disciplina tem um repositório próprio, com o nome no padrão `ufsm-si-<di
 
 ## Disciplinas
 
-### 2026/1 — 1º semestre
+### 2026/1 · 1º semestre
 
 | Disciplina | Docente | Repositório | Conteúdo |
 |---|---|---|---|
-| Laboratório de Programação I | Benhur Stein | [ufsm-si-lab-prog-1](https://github.com/itskelme/ufsm-si-lab-prog-1) | Trabalhos T1–T3 em C, exercícios e autoavaliação |
+| Laboratório de Programação I | Benhur Stein | [ufsm-si-lab-prog-1](https://github.com/itskelme/ufsm-si-lab-prog-1) | Trabalhos T1 a T3 em C, exercícios e autoavaliação |
 | Lógica e Algoritmos | Joaquim Assunção | [ufsm-si-logica-e-algoritmos](https://github.com/itskelme/ufsm-si-logica-e-algoritmos) (privado) | Slides, material de apoio e provas |
 | Circuitos Digitais | Carara | [ufsm-si-circuitos-digitais](https://github.com/itskelme/ufsm-si-circuitos-digitais) (privado) | Slides de álgebra booleana |
 | Trabalho em grupo | Rosecleia | [ufsm-si-bookmark](https://github.com/itskelme/ufsm-si-bookmark) | Bookmark Manager com Firebase |
 | Lógica e Algoritmos (trabalho) | Joaquim Assunção | [ufsm-si-brick-game-car](https://github.com/itskelme/ufsm-si-brick-game-car) | Brick Game: jogo de corrida no terminal em C |
 
-### 2026/2 — 2º semestre
+### 2026/2 · 2º semestre
 
 | Disciplina | Docente | Repositório | Conteúdo |
 |---|---|---|---|
-| Laboratório de Programação II | Piveta | [ufsm-si-lab-prog-2](https://github.com/itskelme/ufsm-si-lab-prog-2) | T1: campo minado No-Guess em C |
+| Laboratório de Programação II | Piveta | [ufsm-si-lab-prog-2](https://github.com/itskelme/ufsm-si-lab-prog-2) | T1: campo minado No-Guess · T3: sistema de vendas com listas encadeadas, em C |
 | Estrutura de Dados | Deise de Brum Saccol | [ufsm-si-estrutura-de-dados](https://github.com/itskelme/ufsm-si-estrutura-de-dados) | Em andamento |
 
 ### Apoio
